@@ -63,6 +63,3 @@ git remote -v
 git remote add "nombre de remoto"
 
 
-## Canal de Discord del curso
-
-https://discord.gg/ueWr8fNV
